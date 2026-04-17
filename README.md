@@ -15,6 +15,54 @@ It replaces manual booking systems with a digital solution that is fast, organiz
 https://urbansalon.vercel.app/
 
 ---
+## 🔐 User & Admin Access
+
+### 👤 User Access
+
+Users can interact with the system by providing their basic details such as:
+
+* Name
+* Email
+* Phone number
+* Booking preferences
+
+This allows users to:
+
+* Book salon services
+* View available services
+* Submit their booking information
+
+---
+
+### 🛠️ Admin Access
+
+The system includes a predefined admin account with the following credentials:
+
+* **Email:** [vish.pal1010@gmail.com](mailto:vish.pal1010@gmail.com)
+* **Password:** 999999
+
+> ⚠️ Note: These credentials are fixed for demonstration purposes.
+
+---
+
+### 🔑 Admin Privileges
+
+Only the admin has special permissions to:
+
+* View all bookings
+* Manage user requests
+* **Update booking status to "Completed"**
+* Maintain overall booking flow
+
+---
+
+### 🚫 Access Control
+
+* Regular users **cannot modify booking status**
+* Only admin has authority to mark services as completed
+* This ensures proper control and prevents unauthorized changes
+
+---
 
 ## ✨ Features
 
