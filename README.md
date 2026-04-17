@@ -11,6 +11,11 @@ It replaces manual booking systems with a digital solution that is fast, organiz
 
 ---
 
+🌐 Live Demo
+https://urbansalon.vercel.app/
+
+---
+
 ## ✨ Features
 
 ### 👤 User Side
@@ -63,51 +68,6 @@ salonbloom-suite/
 
 ---
 
-## ⚙️ Installation & Setup
-
-1. Clone the repository
-
-```
-git clone https://github.com/YOUR_USERNAME/urban-shave-salon.git
-```
-
-2. Navigate to project folder
-
-```
-cd salonbloom-suite
-```
-
-3. Install dependencies
-
-```
-npm install
-```
-
-4. Run development server
-
-```
-npm run dev
-```
-
-5. Open in browser
-
-```
-http://localhost:8080/
-```
-
----
-
-## 🔐 Environment Setup
-
-Create a `.env` file and add your Supabase credentials:
-
-```
-VITE_SUPABASE_URL=your_url
-VITE_SUPABASE_ANON_KEY=your_key
-```
-
----
-
 ## 🎨 UI Highlights
 
 * Minimal and modern design
@@ -127,28 +87,10 @@ This system is ideal for:
 
 ---
 
-## 🚧 Limitations
-
-* No online payment integration
-* No real-time notifications
-* Single salon system (no multi-branch support)
-
----
-
-## 🔮 Future Improvements
-
-* Online payment (Razorpay / Stripe)
-* Email & SMS notifications
-* Advanced admin analytics dashboard
-* Multi-user role management
-* Mobile app version
-
----
-
 ## 📸 Screenshots
 
-(Add screenshots of your website here)
-![alt text](image.png)
+<img width="1920" height="3545" alt="image" src="https://github.com/user-attachments/assets/ba266361-af18-4d3f-9a85-eb1bee5ea47e" />
+
 
 ---
 
@@ -160,5 +102,4 @@ This project is for educational purposes.
 
 ## 🙌 Author
 
-Developed by **Vishal**
-BCA Final Year Project
+Developed by **TechSyntax**
